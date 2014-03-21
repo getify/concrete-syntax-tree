@@ -117,6 +117,6 @@ Neither proposal is perfect. They both imply different tradeoffs. They each impl
 
 ## License & Assignment
 
-By participating in this group, you are explicitly granting/assigning any and all ideas you present to the public domain. No one will retain any "rights" over anything we present/discuss here in this ad hoc committee process, so that there are no concerns over any intellectual property disputes/concerns.
+By participating in this group, you are explicitly granting/assigning any and all ideas you present to the group to be licensed under [CC0 public domain](http://creativecommons.org/publicdomain/zero/1.0/), and you agree that neither you nor anyone else who participates in any of these discussions will retain any intellectual property rights (copyright, patentability, etc) over what is submitted **publicly** to our discussions.
 
-Do not participate if you have a conflict of interest that prevents you from assigning this content to the public domain.
+Simply do not participate if you have any potential or real conflict that prevents you from agreeing to this process under the spirit of those terms.
