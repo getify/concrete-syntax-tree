@@ -23,6 +23,8 @@ We need one standard format that all the various tools can agree to use as an in
 
 ## Plan
 
+**PLEASE GO READ THE [CHARTER/MISSION](https://github.com/getify/concrete-syntax-tree/issues/4) FIRST**
+
 This is an open group, an ad hoc working committee if you will, where all interested parties can register their interest to participate. Ultimately, it is the tools makers (who must participate to make this work!) who will decide if what we come up with is suitable. The success of this group effort is if tools makers agree and implement what we propose.
 
 We will conduct all discussions on this repo, in the open, or at least post transcribed notes here from any teleconference/online meetings. It seems like a good idea to have at least one initial meeting to kick things off, but we will self-organize here and make such decisions as we go.
