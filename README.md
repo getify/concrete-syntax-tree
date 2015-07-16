@@ -1,3 +1,5 @@
+**Update:** This effort has moved to [estree](https://github.com/estree/estree/issues/41), so this repo has now been shut down and deprecated.
+
 # Concrete Syntax Tree
 
 Defining a standard JavaScript CST (concrete syntax tree) to complement ASTs.
